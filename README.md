@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/ehoraizon?template=classic&config.timezone=America%2FHavana)
+
 <!--
 **ehoraizon/ehoraizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
