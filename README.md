@@ -104,7 +104,7 @@
 
 
 ---
-### 🔥 My Stats
+### My Stats 🔥
 <div align="center">
   <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ehoraizon&theme=vue-dark&hide_border=true">
 </div>
